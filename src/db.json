@@ -1,0 +1,132 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "A revolução da IA Generativa nos telemóveis chega em 2025",
+      "slug": "revolucao-ia-generativa-2025",
+      "summary": "As grandes marcas prometem processamento neural local sem necessidade de nuvem.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "author": "Ana Pereira",
+      "category": "Tecnologia",
+      "publishedAt": "2024-12-14T09:00:00Z",
+      "imageUrl": "https://picsum.photos/id/1/800/600",
+      "isFeatured": true,
+      "views": 1540
+    },
+    {
+      "id": "2",
+      "title": "Mercados financeiros reagem à descida das taxas de juro",
+      "slug": "mercados-financeiros-taxas-juro",
+      "summary": "Bolsas europeias fecham em alta após anúncio do Banco Central.",
+      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Carlos Silva",
+      "category": "Economia",
+      "publishedAt": "2024-12-13T14:30:00Z",
+      "imageUrl": "https://picsum.photos/id/20/800/600",
+      "isFeatured": false,
+      "views": 890
+    },
+    {
+      "id": "3",
+      "title": "Descoberta nova espécie marinha no Atlântico Norte",
+      "slug": "nova-especie-marinha-atlantico",
+      "summary": "Biólogos marinhos classificam a descoberta como 'histórica' para a biodiversidade.",
+      "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "author": "Marta Sousa",
+      "category": "Ciência",
+      "publishedAt": "2024-12-12T10:15:00Z",
+      "imageUrl": "https://picsum.photos/id/37/800/600",
+      "isFeatured": true,
+      "views": 3200
+    },
+    {
+      "id": "4",
+      "title": "Final do campeonato nacional marcada por surpresas",
+      "slug": "final-campeonato-surpresas",
+      "summary": "A equipa visitante conseguiu uma reviravolta nos últimos minutos.",
+      "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.",
+      "author": "João Santos",
+      "category": "Desporto",
+      "publishedAt": "2024-12-11T18:45:00Z",
+      "imageUrl": "https://picsum.photos/id/48/800/600",
+      "isFeatured": false,
+      "views": 5600
+    },
+    {
+      "id": "5",
+      "title": "Dicas para um home office mais produtivo e saudável",
+      "slug": "dicas-home-office-produtivo",
+      "summary": "Especialistas em ergonomia partilham os erros mais comuns.",
+      "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+      "author": "Filipa Costa",
+      "category": "Lifestyle",
+      "publishedAt": "2024-12-10T08:00:00Z",
+      "imageUrl": "https://picsum.photos/id/60/800/600",
+      "isFeatured": false,
+      "views": 420
+    },
+    {
+      "id": "ee91e201-d474-4fef-b563-b3d649ffa923",
+      "title": "1233",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "joao",
+      "category": "news",
+      "summary": "lorem ipsum",
+      "views": 0
+    },
+    {
+      "id": "472ac41b-269e-46c6-9bee-b73c61b95758",
+      "title": "wqqe",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "sdsada",
+      "category": "news",
+      "summary": "sdsds",
+      "views": 0
+    },
+    {
+      "id": "52e87268-51d4-42b5-a9fd-c0388e247572",
+      "title": "sddw",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "joao",
+      "category": "wdwd",
+      "summary": "awdwad",
+      "views": 0
+    },
+    {
+      "id": "de40f012-01d1-41aa-9105-dd0667457dfb",
+      "title": "wadaw",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "wdwd",
+      "category": "adwd",
+      "summary": "ada",
+      "views": 0
+    },
+    {
+      "id": "2b219088-00ec-483c-81a9-54b21f2686f0",
+      "title": "cafweaf",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "efsefs",
+      "category": "fsfse",
+      "summary": "sfsefes",
+      "views": 0
+    },
+    {
+      "id": "9ea56bcb-7183-43d9-aa0e-ac3acfa71b16",
+      "title": "sdwdawda",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "joao",
+      "category": "news",
+      "summary": "lorem ipsum",
+      "views": 0
+    },
+    {
+      "id": "2bc06289-b85e-421b-92af-f3e70bd12f3f",
+      "title": "dasdas",
+      "imageUrl": "https://picsum.photos/id/237/200/300",
+      "author": "joao",
+      "category": "sasdas",
+      "summary": "sadasdas",
+      "views": 0
+    }
+  ]
+}
