@@ -74,9 +74,9 @@ export default {
         author: this.author,
         category: this.category,
         summary: this.summary,
-        views: this.views,
+        views: this.views,:
       };
-
+c
       this.$emit("add-news-item", newsItem);
     },
   },
